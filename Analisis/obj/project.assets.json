@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ascencio Martinez\\Desktop\\Personal\\Analisis de Programacion\\Analisis\\Analisis.csproj",
+      "projectUniqueName": "C:\\Users\\Ascencio Martinez\\Source\\Repos\\Analisis_Oscar\\Analisis\\Analisis.csproj",
       "projectName": "Analisis",
-      "projectPath": "C:\\Users\\Ascencio Martinez\\Desktop\\Personal\\Analisis de Programacion\\Analisis\\Analisis.csproj",
+      "projectPath": "C:\\Users\\Ascencio Martinez\\Source\\Repos\\Analisis_Oscar\\Analisis\\Analisis.csproj",
       "packagesPath": "C:\\Users\\Ascencio Martinez\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ascencio Martinez\\Desktop\\Personal\\Analisis de Programacion\\Analisis\\obj\\",
+      "outputPath": "C:\\Users\\Ascencio Martinez\\Source\\Repos\\Analisis_Oscar\\Analisis\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Ascencio Martinez\\AppData\\Roaming\\NuGet\\NuGet.Config",

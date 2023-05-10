@@ -121,7 +121,7 @@ switch (opcion) {
 Console.WriteLine("El numero es {1} y su resultado es = {0} ", resultado , opcion ); //Impresion por keys
 */
 
-/*
+
 
 var opcion = "Jupiter";
 var resultado = "";
@@ -164,4 +164,3 @@ else
 {
     Console.WriteLine($"El dia es {opcion} con numero {resultado}"); // Impresion de datos por interpolacion
 }
-*/
